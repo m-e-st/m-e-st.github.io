@@ -19,7 +19,7 @@ Theme | Demo | Repository
 **Leap day** | [Demo](https://pages-themes.github.io/leap-day) | [Repo](https://github.com/pages-themes/leap-day)
 **Merlot** | [Demo](https://pages-themes.github.io/merlot) | [Repo](https://github.com/pages-themes/merlot)
 **Midnight** | [Demo](https://pages-themes.github.io/midnight) | [Repo](https://github.com/pages-themes/midnight)
-**Minima** | [Demo](https://github.com/jekyll/minima) | [Repo](https://github.com/jekyll/minima)
+**Minima** | [Demo](hhttps://jekyll.github.io/minima/) | [Repo](https://github.com/jekyll/minima)
 **Minimal** | [Demo](https://pages-themes.github.io/minimal) | [Repo](https://github.com/pages-themes/minimal)
 **Modernist** | [Demo](https://pages-themes.github.io/modernist/) | [Repo](https://github.com/pages-themes/modernist)
 **Slate** | [Demo](https://pages-themes.github.io/slate) | [Repo](https://github.com/pages-themes/slate)
