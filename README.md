@@ -2,9 +2,11 @@
 
 Dieses Repository enthält meine persönliche Sammlung technischer und techniknaher Informationen und wird über dieses Repository mittels GitHub-Pages bereit gestellt.
 
-
-> [!NOTE]
+> [!WARNING] Disclaimer
 > Diese Informationen werden ohne Garantie auf Vollständigkeit oder Richtigkeit bereitgestellt. Die Verwendung erfolgt auf eigene Gefahr.
+
+---
+ab hier test
 
 > [!NOTE]  
 > Highlights information that users should take into account, even when skimming.
