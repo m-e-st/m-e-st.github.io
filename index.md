@@ -1,6 +1,7 @@
 ---
-title: "Technische Informationen"
-description: "https://pages.stumpp.name"
+title: "Github Pages"
+description: Michael Stumpp
+cname: "https://pages.stumpp.name"
 ---
 # Willkommen
 
