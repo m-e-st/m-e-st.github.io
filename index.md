@@ -5,9 +5,12 @@ cname: "https://pages.stumpp.name"
 ---
 # Willkommen
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Diese Seiten werden via Guthub bereitgestellt.
+Sie dienen mir im Wesentlichen als Experimentierfeld für das Publizieren von Webseiten über GitHub.
 
-- [pages](pages)
+Die Datenpflege erfolgt lokal über Obsidian. Hierzu ist das Hauptverzeichnis als Obsidian Vault eingerichtet. Dadurch lassen sich einfach die Markdown-Unterschiede zwischen Obsidian-Markdown und Github-flavored Markdown darstellen und validieren.
+
+Github selbst verwendet Jekyll zur Generierung der Webseiten. Dabei werden ein gutes Dutzend Themes bereitsgestellt.  =>  [pages](pages)
 
 9+
 
