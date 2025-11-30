@@ -2,6 +2,7 @@
 title: "Github Pages"
 description: Michael Stumpp
 cname: "https://pages.stumpp.name"
+theme: Leap Day
 ---
 # Willkommen
 

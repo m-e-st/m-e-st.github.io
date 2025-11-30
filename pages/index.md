@@ -2,7 +2,7 @@
 
 Hier sind die technischen Grundlagen dieser Webseite beschrieben
 
-- [Sandbox](pages/sandbox.md)
+- [Sandbox](sandbox.md)
 
 ### Links
 - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#alerts
